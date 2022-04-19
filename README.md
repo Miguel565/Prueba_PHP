@@ -20,3 +20,8 @@ MVC viene de Model, View, Controller, o bien: Modelo, Vista y Controlador. Es
 un patrón de diseño que da muy buenos resultados. La idea básica de éste
 patrón es separar nuestros sistemas en 3 capas, El Modelo, La Vista y el
 Controlador.
+
+---
+
+#### Nota:
+La base de datos propuesta a utilizar para el ejercicio se cambió por Mysql debido a problemas tecnicos imprevistos.
